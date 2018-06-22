@@ -15,6 +15,7 @@
     "express": "^4.16.3",
     "mssql": "^4.1.0",
     "mysql": "^2.15.0",
+    "open": "0.0.5",
     "path": "^0.12.7",
     "powerbi-api": "^1.2.3",
     "powerbi-client": "^2.5.1",
